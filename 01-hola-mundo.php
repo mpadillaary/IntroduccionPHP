@@ -1,7 +1,13 @@
-<h1><?php echo "Hola Mundo"; ?></h1>
+<?php include 'includes/header.php';
 
-<?php
+// echo "Hola mundo";
 
-echo "Hola mundo";
+// echo("Hola mundo");
 
-?>
+// print "Hola mundo";
+
+// print_r("Hola mundo");
+
+// var_dump("Hola Mundo");
+
+include 'includes/footer.php';
