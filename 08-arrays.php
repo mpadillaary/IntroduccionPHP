@@ -25,6 +25,10 @@ echo '<pre>';
 var_dump($carrito);
 echo '</pre>';
 
+$clientes = array('cliente1', 'cliente2', 'cliente3');
+echo '<pre>'; 
+var_dump($clientes);
+echo '</pre>';
 
 
 include 'includes/footer.php';
